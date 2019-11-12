@@ -37,6 +37,7 @@ lsi:         false
 excerpt_separator: "\n\n"
 
 source:      .
+#source:      /root/myBlog/Yummy-Jekyll/pages
 destination: ./_site
 
 quiet:    false
