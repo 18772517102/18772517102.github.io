@@ -1,3 +1,5 @@
 git pull 拉取
 git push 上传
 git pull origin next 合并到当前版本
+git fetch origin master //从远程主机的master分支拉取最新内容 
+git merge FETCH_HEAD    //将拉取下来的最新内容合并到当前所在的分支中
