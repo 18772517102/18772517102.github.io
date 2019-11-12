@@ -14,19 +14,22 @@ favicon: favicon.png
 
 repository: 18772517102/18772517102.github.io
 github_url: https://github.com/18772517102
-cnblog_url: http://www.cnblogs.com/lirenzuo
+#cnblog_url: http://www.cnblogs.com/lirenzuo
 url: http://www.chengyunsheng.com
 enforce_ssl: chengyunsheng.com
 
+#gems: [jekyll-paginate]
 ## Gem
-plugins:
+#plugins:
+#plugins_dir:
+gems:
   - jekyll-paginate
   - jekyll-geo-pattern
   - rouge
   - kramdown
   - jekyll-github-metadata
-  - jekyll-octicons
-  
+ # - jekyll-octicons 
+#gems: [jekyll-octicons]
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -34,6 +37,7 @@ lsi:         false
 excerpt_separator: "\n\n"
 
 source:      .
+#source:      /root/myBlog/Yummy-Jekyll/pages
 destination: ./_site
 
 quiet:    false

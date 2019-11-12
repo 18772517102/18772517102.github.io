@@ -9,10 +9,10 @@ permalink: /link
 
 
 ## 友情链接
-   
+<!--   
 ## - <a href="http://ityouknow.com/" target="_blank">纯洁的微笑</a> - 分享技术，品味人生
 ## - <a href="http://www.iocoder.cn/" target="_blank">芋道源码</a> -  纯源码解析博客
-
+-->
 
 ## 推荐网站
 
